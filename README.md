@@ -10,9 +10,9 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucluc66&layout=compact'>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=lucluc66'>
-</p>
+</p> -->
 
 <!--
 **lucluc66/lucluc66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
