@@ -3,15 +3,15 @@
 - 🔭 I’m currently working on building a screen tracking website
 
 <p align='center'>
-![lucluc66's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucluc66)
+    <img src='https://github-readme-stats.vercel.app/api?username=lucluc66'>
 </p>
 
 <p align='center'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucluc66&layout=compact)
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucluc66&layout=compact'>
 </p>
 
 <p align='center'>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lucluc66)
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=@lucluc66'>
 </p>
 
 <!--
