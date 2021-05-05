@@ -1,5 +1,5 @@
 ### Hi there 👋 this is @lucluc66.
-- 🌱 I’m currently learning Machine Learning and Fronted Developement
+- 🌱 I’m currently learning Machine Learning and Frontend Developement
 - 🔭 I’m currently working on building a screen tracking website
 
 <p align='center'>
