@@ -1,6 +1,6 @@
 ### Hi there 👋 this is @lucluc66.
-- 🌱 I’m currently learning Machine Learning and Frontend Developement
-- 🔭 I’m currently working on building a screen tracking website
+- 🔭 Former employee of GlobeTax Services Inc. 
+- 🌱 I’m currently learning AWS Cloud Practitioner 
 
 <p align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=lucluc66'>
